@@ -13,8 +13,8 @@
                     "ENV_NAME": "dev",
                     "RUNTIME_NAME": "",
                     "KEYVAULT_NAME": "",
-                    "RESOURCE_GROUP_NAME": "",
-                    "WORKSPACE_NAME": "",
+                    "RESOURCE_GROUP_NAME": "ml",
+                    "WORKSPACE_NAME": "ml110",
                     "STANDARD_FLOW_PATH": "flows/experiment",
                     "EVALUATION_FLOW_PATH": "flows/evaluation, flows/evaluation_adv"
                 }
