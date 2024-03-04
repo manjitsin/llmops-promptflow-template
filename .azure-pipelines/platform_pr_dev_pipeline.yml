@@ -6,6 +6,9 @@ parameters:
  - name: flow_to_execute
    displayName: "type of model to execute"
 
+variables:
+  - group: llmops_platform_dev_vg
+
 stages:
     - stage: build_validation
       displayName: build_validation
